@@ -10,3 +10,6 @@ Po sliki se lahko pomikamo s pomočjo koleščka:
  - Za pomanjšavo pomaknemo kazalec miške na del slike, ki ga želimo centrirati, in pomaknemo kolešček za 1 položaj nazaj.
 
 Za dodatne informacije lahko pritisnete na tipko F12 med izvajanjem. Po zavihkom "Console" se izpisuje, koliko iteracij je bilo napravljenih in kolikšen del pikslov preostane.
+
+Poskusi:
+https://rawgit.com/hackguy25/MandljevKruh/master/index.html
