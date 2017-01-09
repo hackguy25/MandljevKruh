@@ -27,7 +27,7 @@ function setup() {
 	vsehPikslov = width * height;
 	ostPikslov = vsehPikslov;
 	ponovitev = 0;
-	pixelDensity = 1;
+	pixelDensity(1);
 	
 	buffPodpiksli = new ArrayBuffer(12 * vsehPikslov);
 	
